@@ -12,6 +12,7 @@ This project is designed for residential and small commercial applications, offe
 - PIN-based access using a 4×4 keypad
 - Real-time status display via LCD
 - Multi-user access support
+- Emergency Key Unlock
 - Secure and fast door unlocking mechanism
 - User-friendly interface
 - Suitable for homes, offices, and labs
@@ -115,4 +116,5 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork and 
 ## 📧 Contact
 
 For questions or collaboration, please open an issue in the repository.
+
 
